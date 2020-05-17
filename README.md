@@ -1,2 +1,3 @@
-# SimpleCI_CD
-A simple CI_CD project using Jenkins
+# maven-project
+
+Simple Maven Project
